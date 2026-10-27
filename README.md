@@ -42,8 +42,5 @@ The system is split into a High-Level AI perception pipeline and a Low-Level har
 * **CAD & Simulation:** SolidWorks (Parametric B-Rep and Motion Simulation).
 * **Manufacturing:** Creality K1C 3D printing utilizing engineering-grade ASA, PETG, and PA-CF (Carbon Fiber Nylon) filaments[cite: 8].
 
-## 🚀 Getting Started
-*(Include instructions here on how to flash the ESP32 firmware, set up the Python virtual environment for the YOLOv8 tracker, and wiring schematics for reviewers to look at).*
-
 ---
 *Conceptualized and engineered under **Vitality Technologies**. This repository showcases multi-disciplinary engineering bridging hardware automation and artificial intelligence.*
