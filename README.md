@@ -1,7 +1,9 @@
 # 🛡️ Project Sentinel: Autonomous Air Defense Turret
 
 ![Vitality Technologies](https://img.shields.io/badge/Developed_Under-Vitality_Technologies-blue?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
